@@ -1,0 +1,1 @@
+chef-server-ctl user-create praduit123 sundar panda ramanji.devops@gmail.com praduit123 --filename /home/vagrant/user.pem
